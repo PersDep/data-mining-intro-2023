@@ -7,3 +7,4 @@
 * [Задание: 3, баллов: 10](https://github.com/PersDep/data-mining-intro-2023/blob/main/hw03-EDA.ipynb). Мягкий дедлайн: 2 марта 23:59; жёсткий дедлайн: 7 марта 23:59
 * [Задание: 4, баллов: 10](https://github.com/PersDep/data-mining-intro-2023/blob/main/hw04-knn-linreg.ipynb). Мягкий дедлайн: 23 марта 23:59; жёсткий дедлайн: 29 марта 23:59
 * [Задание: 5, баллов: 10](https://github.com/PersDep/data-mining-intro-2023/blob/main/hw05-GD.ipynb). Мягкий дедлайн: 20 апреля 23:59; жёсткий дедлайн: 27 апреля 23:59
+* [Задание: 6, баллов: 10](https://github.com/PersDep/data-mining-intro-2023/blob/main/hw06-texts.ipynb). Мягкий дедлайн: 13 мая 23:59; жёсткий дедлайн: 19 мая 23:59
